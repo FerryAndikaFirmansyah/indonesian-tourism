@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indonesian Tourism</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Indonesian Tourism</h1>
+        <nav>
+            <ul>
+                <li><a href="kebudayaan.html">Kebudayaan</a></li>
+                <li><a href="tempat-wisata.html">Tempat Wisata</a></li>
+                <li><a href="hotel.html">Hotel</a></li>
+                <li><a href="transaksi.html">Transaksi</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="wisata">
+            <h2>Kebudayaan di Indonesia</h2>
+            <p>Kebudayaan Indonesia adalah kumpulan dari berbagai nilai, adat istiadat, tradisi, seni, dan kepercayaan yang dimiliki oleh masyarakat Indonesia.
+                Negara ini terdiri dari lebih dari 17.000 pulau dan lebih dari 1.300 suku bangsa, sehingga kebudayaannya sangat beragam. Kebudayaan Indonesia mencakup berbagai aspek seperti bahasa, pakaian tradisional, tarian, musik, upacara adat, kuliner, dan arsitektur.
+            </p>
+            <div class="wisata-item">
+                <img src="tari kecak.jpg">
+                <h3>Tari</h3>
+                <p>Tarian merupakan bentuk ekspresi seni yang menggunakan gerakan tubuh yang teratur dan berirama untuk menyampaikan cerita, emosi. </p>
+                <button><a href="kebudayaan.html">Detail</a></button>
+            </div>
+            <div class="wisata-item">
+                <img src="upacara adat.jpg">
+                <h3> Upacara </h3>
+                <p>Upacara adalah serangkaian kegiatan ritual yang dilakukan oleh suatu komunitas atau suku untuk memperingati peristiwa penting</p>
+                <button><a href="kebudayaan.html">Detail</a></button>
+            </div>
+            <div class="wisata-item">
+                <img src="tradisi.jpg">
+                <h3> Tradisi</h3>
+                <p>Tradisi adalah berbagai praktik, kebiasaan, dan kepercayaan yang diwariskan dari generasi ke generasi.</p>
+                <button><a href="kebudayaan.html">Detail</a></button>
+            </div>
+</section>
+            <section class="wisata">
+            <h2>Destinasi Wisata Populer</h2>
+            <p>Indonesia merupakan negara di Asia tenggara yang terdiri dari banyak pulau, gunung berapi, dan dikelilingi hamparan lautan yang luas. Oleh karena itu Indonesia dijuluki sebagai surganya pariwisata. Berikut adalah destinasi favorit bagi kalangan lokal maupun internasional yang dapat kami rekomendasikan untuk anda :</p>
+            <div class="wisata-item">
+                <img src="pulaudewata.jpg">
+                <h3>Pulau Dewata Bali</h3>
+                <p>Bali merupakan tempat wisata favorit kalangan lokal maupun internasional</p>
+                <button><a href="tempat-wisata.html">Detail</a></button>
+
+            </div>
+            <div class="wisata-item">
+                <img src="candi borobudur.jpg">
+                <h3> Candi Borobudur</h3>
+                <p>Candi Borobudur merupakan tempat wisata bersejarah yang ada di Yogyakarta</p>
+                <button><a href="tempat-wisata.html">Detail</a></button>
+            </div>
+            <div class="wisata-item">
+                <img src="raja ampat.jpg">
+                <h3> Raja Ampat</h3>
+                <p>Destinasi wisata favorit yang terdiri dari banyak pulau-pulau indah dan menawan</p>
+                <button><a href="tempat-wisata.html">Detail</a></button>
+            </div>
+        </section>
+        
+        <section class="wisata">
+            <h2>Hotel Favorite</h2>
+            <p>Pada saat melakukan perjalanan tentu saja kita membutuhkan ruang untuk singgah dan istirahat sejenak, hotel merupakan salah satu tempat yang sangat bagus digunakan untuk istirahat saat liburan ataupun traveling.
+                Hotel yang menjadi favorit biasanya berhasil memenuhi atau bahkan melampaui harapan tamu, sehingga menciptakan pengalaman menginap yang menyenangkan dan berkesan. </p>
+            <div class="wisata-item">
+                <img src="andaz bali.jpg">
+                <h3>Hotel Andaz Bali</h3>
+                <p>Merupakan Hotel bintang lima yang memiliki banyak cabang di berbagai negara</p>
+                <p>Fasilitas: Kolam Renang, Spa, Wi-Fi Gratis, Resort, Fitness Center, Kids Club, </p>
+                <p>Harga: $298/malam</p>
+                <p>Jl. Danau Tamblingan No.89A, Sanur, Bali, Kota Denpasar.</p>
+                <button><a href="transaksi.html">Pesan Sekarang</a></button>
+            </div>
+            <div class="wisata-item">
+                <img src="eastparc hotel yogya.jpg">
+                <h3> Eastparc Hotel Yogyakarta</h3>
+                <p>Hotel bintang lima dengan akses yang mudah dan dekat dari Bandara Internasional Adisucipto</p>
+                <p>Fasilitas: Kolam Renang, Spa, Wi-Fi Gratis, Gym, Restoran</p>
+                <p>Harga: Rp 2.000.000/malam</p>
+                <p>Jl. Laksadana Adisucipto Km.65, Yogyakarta.</p>
+                <button><a href="transaksi.html">Pesan Sekarang</a></button>
+            </div>
+            <div class="wisata-item">
+                <img src="meridian raja ampat.jpg">
+                <h3> Meridian Adventure Marina Club & Resort</h3>
+                <p>Merupakan hotel bintang lima yang memiliki properti berkelas dan letak yang strategis di Waigeo</p>
+                <p>Fasilitas: Kolam Renang, Spa, Wi-Fi Gratis, Dining room, Diving Club, Gym</p>
+                <p>Harga: Rp 3.000.000/malam</p>
+                <p>Jl. Yos Sudarso, Waisai, Waigeo, Raja Ampat.</p>
+                <button><a href="transaksi.html">Pesan Sekarang</a></button>
+            </div>
+        </section>
+
+    <style>
+        * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #f0f0f0;
+    line-height: 1.6;
+}
+
+header {
+    background: url(headerr.jpg);
+    color: #333;
+    padding: 1.5em 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    position: relative;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+    font-family : Gill Sans MT;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #444;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #ffdf00;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+section {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+section h2 {
+    color: #006666;
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+    border-bottom: 2px solid #00cccc;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+section ul {
+    list-style: disc inside;
+    padding-left: 20px;
+}
+
+.wisata{
+    margin-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+}
+
+.wisata h3{
+    font-size: 24px;
+    margin-bottom: 1rem ;
+    width: 100%;
+}
+
+.wisata-item{
+    background-color: whitesmoke;
+    box-shadow: 0 0 10px rgba(0,0,0,.5);
+    margin: 0.5rem;
+    max-width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 1rem;
+    border-radius: 5px;
+    flex: 1;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.wisata-item:hover{
+    transform: scale(1.1);
+}
+
+.wisata-item img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.wisata-item h3{
+    font-size: 1.5rem;
+    margin:0.5 rem 0;
+}
+
+.wisata-item p{
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+
+.wisata-item button{
+    background-color: #ffcc00;
+    color: whitesmoke;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3 ease;
+}
+
+.wisata-item button:hover{
+    background-color: #555;
+    color: whitesmoke;
+}
+
+.hotel-item{
+    padding-bottom: 5em;
+    padding: 2em;
+}
+
+.hotel-item img{
+    max-width: 100%;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 5px;
+}
+
+.kebudayaan-item img{
+    max-width: 100%;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 5px;
+}
+
+.kebudayaan-item ul li{
+    padding-bottom: 10px;
+    padding: 20px;
+    padding-top: 60px;
+}
+
+.wisata-tempat img{
+    max-width: 100%;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 5px;
+}
+
+.wisata-tempat ul li{
+    padding-bottom: 10px;
+    padding: 20px;
+    padding-top: 60px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+form input, form select, form button {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+form button {
+    background-color: #006666;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #004d4d;
+}
+
+#transaksi-hasil h3 {
+    color: #006666;
+    margin-top: 20px;
+}
+    </style>
+    
+    <script>
+        function prosesTransaksi(event) {
+    event.preventDefault();
+
+    const nama = document.getElementById('nama').value;
+    const email = document.getElementById('email').value;
+    const nomorhp = document.getElementById('nomorhp').value;
+    const hotel = document.getElementById('hotel').value;
+    const tanggal = document.getElementById('tanggal').value;
+
+    const hasilTransaksi = `
+        <h3>Detail Transaksi:</h3>
+        <p>Nama: ${nama}</p>
+        <p>Email: ${email}</p>
+        <p>Nomor Handphone: ${nomorhp}</p>
+        <p>Hotel: ${hotel}</p>
+        <p>Tanggal Check-in: ${tanggal}</p>
+        <p>Tanggal Check-out: ${tanggal}</p>
+    `;
+
+    document.getElementById('transaksi-hasil').innerHTML = hasilTransaksi;
+}
+    </script>
+
+    </main>
+    <footer>
+        <p>&copy; 2024 Indonesian Tourism. All rights reserved.</p>
+    </footer>
+</body>
+</html>
